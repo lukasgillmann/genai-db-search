@@ -1,25 +1,14 @@
 # Generative AI SQL Search Tool
 
+Gen AI / LLM / Embeddings / VectorDB
+
 ### Tools
 - Python
 - LangChain
 - Streamlit
 
-### Concepts
-- Gen AI
-- LLM (GooglePalm)
-- Chains
-- Prompts & Templates
-- Few Shots Learning
-- Embeddings
-- Vector DB
-
 ### Usage demonstration
 
 Ask your question about the data stored in database and click `Search`
 
-![SQL Search Tool](./assets/search_example.png)
-
-Background chain executed
-
-![Executed chain](./assets/executed_chain.png)
+![SQL Search Tool](https://i.ibb.co/9hrF20v/Screenshot-1006.png)
