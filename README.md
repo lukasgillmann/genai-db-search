@@ -1,4 +1,4 @@
-# Generative AI SQL Search Tool
+# Generative AI SQL Builder
 
 Gen AI / LLM / Embeddings / VectorDB
 
